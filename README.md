@@ -1,1 +1,8 @@
-½ñÌìÕÒÁË¸öÈ«¹ú¸÷Ê¡ÊÐÓÊÕþ±àÂëÐÅÏ¢µÄxmlÎÄµµ£¬ÎÒÓÃxml.dom°ÑÐÅÏ¢½âÎöÌáÈ¡³öÀ´£¬²¢Êä³öµ½Êý¾Ý¿â½øÐÐµ÷ÓÃ²éÑ¯¡£
+GUIæŸ¥è¯¢å„åœ°é‚®æ”¿ç¼–ç 
+====
+
+ç”¨åˆ°çš„æ¨¡å—ï¼š
+1.xml.domæ¨¡å—ï¼Œç”¨æ¥è§£æžxmlæ–‡æ¡£
+2.mysql-connectoré­”é“ ï¼Œè°ƒç”¨MySQLæ•°æ®åº“
+3.tkinteræ¨¡å—ï¼Œåˆ¶ä½œGUIç•Œé¢
+
